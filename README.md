@@ -8,7 +8,7 @@
 
 ## 💼 My experience:
 
-🎮 Game Development - Over a year of working with Unity game engine.
+🎮 Game Development - Over a year of working with Unity game engine.<br>
 📱 Mobile Development - Have developed, tested and deployed Android and IOS projects for Google Play Market and App Store.
 
 ---
