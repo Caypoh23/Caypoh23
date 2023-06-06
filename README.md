@@ -43,4 +43,4 @@
 ### Thanks for Visiting my GitHub Profile!
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/caypoh23/caypoh23/blob/output/github-contribution-grid-snake.gif)
