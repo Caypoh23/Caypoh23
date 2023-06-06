@@ -33,13 +33,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=caypoh23&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Thanks for Visiting my GitHub Profile!
----
-
+## Thanks for Visiting my GitHub Profile!
 ![snake svg](https://github.com/caypoh23/caypoh23/blob/output/github-contribution-grid-snake.svg)
