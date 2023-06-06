@@ -43,5 +43,3 @@
 ### Thanks for Visiting my GitHub Profile!
 ---
 ![Snake animation](https://github.com/caypoh23/caypoh23/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
