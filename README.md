@@ -43,5 +43,10 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
+### Thanks for Visiting my GitHub Profile!
+---
+<p align="center">
+![Snake animation](https://github.com/caypoh23/caypoh23/blob/output/github-contribution-grid-snake.svg)
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
