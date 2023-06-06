@@ -42,4 +42,4 @@
 
 ### Thanks for Visiting my GitHub Profile!
 ---
-![Snake animation](https://github.com/caypoh23/caypoh23/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caypoh23/blob/output/github-contribution-grid-snake.svg)
