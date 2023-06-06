@@ -1,6 +1,6 @@
 # 💫 About Me:
 ⚡ Fun fact: I was a professional swimmer<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning game development and looking for a part-time job in this sphere<br>🥅 Goals: Contribute more to Open Source projects, and learn more about Game engineering<br>🔭 I’m currently working as a Flutter Developer at Venkon group - Gapyo, Dipay and Sooperwise<br>
-
+[![](https://visitcount.itsvg.in/api?id=caypoh23&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CaypoH23) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/CaypoH23) 
@@ -20,8 +20,5 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=caypoh23&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
