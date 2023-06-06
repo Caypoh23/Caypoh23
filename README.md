@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=caypoh23&icon=0&color=6)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-⚡ Fun fact: I was a professional swimmer<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning game development and looking for a part-time job in this sphere<br>🥅 Goals: Contribute more to Open Source projects, and learn more about Game engineering<br>🔭 I’m currently working as a Flutter Developer at Venkon group - Gapyo, Dipay and Sooperwise<br>
+🔭 I’m currently working as a Flutter Developer at Venkon group - Gapyo, Dipay and Sooperwise<br>🥅 Goals: Contribute more to Open Source projects, and learn more about Game engineering<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning game development and looking for a part-time job in this sphere<br>⚡ Fun fact: I was a professional swimmer<br>
 
 ---
 
