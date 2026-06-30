@@ -1,91 +1,66 @@
-# Bobur Irgashev  
-**Senior Flutter Engineer**  
-Tashkent, Uzbekistan  
-📧 bobur.irgashev23@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bobur-irgashev/)  
+<h1 align="center">Hi, I'm Bobur 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=620&height=45&color=58A6FF&lines=AI-First+Mobile+Engineer;Building+production+apps+with+AI;Flutter+%E2%80%A2+Dart+%E2%80%A2+Agentic+Development" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  AI-First Mobile Engineer (Flutter) with 5+ years shipping production apps across fintech, tax and consumer products.<br/>
+  I ship LLM-powered features and build the agentic dev automation that speeds up whole teams.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bobur-irgashev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:bobur.irgashev23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/Caypoh23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Caypoh23&style=for-the-badge&color=58A6FF" alt="Profile views"/>
+</p>
 
 ---
 
-## 🧠 Summary  
-Senior Software Engineer with 5+ years of experience developing and maintaining high-impact applications. Focused on delivering quality products that elevate user experience and meet business goals. Eager to contribute to open-source initiatives and apply my skills to innovative, people-centered projects.
+### ⚡ What I do
+
+- 📱 Build and ship production **Flutter** apps end-to-end (fintech, tax-practice, consumer)
+- 🤖 Ship **LLM-powered** product features (AI document renaming, in-app AI chat)
+- 🧩 Build **agentic dev automation**: MCP servers, Claude Code subagents, automated AI PR review, release agents
+- 🔭 Go deep on **observability** (Sentry), **app security** (IDOR, COPPA), **Clean Architecture** and testing
 
 ---
 
-## 💼 Professional Experience  
+### 🛠️ Tech Stack
 
-### **Senior Flutter Engineer**  
-**JSC Paynet** – Tashkent, Uzbekistan  
-_Feb 2024 – Present_  
-> Leading payment system with 20M+ users
-
-- Refactored 30,000+ lines of code and migrated to a new theming system, reducing app size from 186MB to 167MB.
-- Implemented caching for 3,000+ merchants, reducing server load by 15%.
-- Replaced full notification fetches with time-based pagination, reducing load and improving performance.
-- Optimized contact fetching (from 10s to 200ms for 5,000 entries).
-- Integrated MyID SDK for secure facial ID (2M+ users).
-- Automated code generation using Mason, accelerating dev workflows by 30%.
-
----
-
-### **Lead Flutter Engineer**  
-**Invento Studio** – Tashkent, Uzbekistan  
-_Sep 2023 – Oct 2024_  
-> Software development partner for startups and enterprises
-
-- Built CI/CD pipelines with GitLab CI & Fastlane, reducing release time by 50%.
-- Developed document & ID scanning features (cards, MRZ, QR).
-- Created a reusable UI-Kit aligned with Flutter Material Guidelines.
-- Authored internal documentation and onboarding scripts.
-- Added Bluetooth Low Energy (BLE) functionality.
-- Built WebSocket-based real-time chat with in-app media editing.
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLoC-2196F3?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-2C6EBA?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+</p>
 
 ---
 
-### **Lead Flutter Engineer**  
-**Venkon Group LLC** – Tashkent, Uzbekistan  
-_May 2022 – Sep 2023_  
-> 1C software leader focused on accounting and process automation
+### 📊 GitHub Stats
 
-- Implemented facial recognition via MyID SDK for 10K+ users.
-- Built peer-to-peer payments in a multi-role super-app.
-- Standardized codebase with style guides and documentation.
-- Designed a new business role model, expanding platform functionality.
-- Integrated interactive Google Maps for business discovery.
-- Rebuilt UI system and improved delivery pipeline.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Caypoh23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Caypoh23&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caypoh23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+</p>
 
-### **Flutter Engineer**  
-**Sappfire** – Moscow, Russia  
-_Sep 2021 – May 2022_  
-> Leading biofireplace manufacturer (7,000+ units delivered)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Caypoh23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
+</p>
 
-- Developed IoT apps for controlling ESP32 & STM-based devices.
-- Used Kotlin natively for enhanced Android integration.
-- Defined product requirements with cross-functional teams.
-- Shipped apps to Google Play and App Store.
-
----
-
-## 🎓 Education  
-**Westminster International University in Tashkent**  
-_Bachelor’s in Business Information Systems, 2022_
-
----
-
-## 🌍 Languages  
-- **English:** C1  
-- **Russian:** C2  
-- **Uzbek:** Native  
-
----
-
-## 🛠 Skills  
-
-**Languages:** Dart, Swift, Kotlin  
-**Frameworks/Tools:** Flutter, Firebase, Google Maps, Hive  
-**State Management:** BloC, Redux, MobX  
-**Architecture:** Clean Architecture, MVVM  
-**Other:** CI/CD, BLE, WebSocket, Fastlane, Mason  
-
----
+<p align="center"><i>Building mobile products, one commit at a time.</i></p>
