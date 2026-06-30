@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/bobur-irgashev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:bobur.irgashev23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://leetcode.com/u/Caypoh23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Caypoh23&style=for-the-badge&color=58A6FF" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Caypoh23&style=for-the-badge&color=58A6FF&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -48,19 +48,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Caypoh23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Caypoh23&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caypoh23&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caypoh23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Caypoh23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
+  <img src="https://img.shields.io/github/followers/Caypoh23?style=for-the-badge&logo=github&color=58A6FF&labelColor=0d1117" alt="followers"/>
 </p>
 
 <p align="center"><i>Building mobile products, one commit at a time.</i></p>
